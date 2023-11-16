@@ -1,0 +1,16 @@
+{
+  "name": "ado-scripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Carter Butaud (cabutaud@microsoft.com)",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "azure-devops-node-api": "^12.1.0",
+    "dotenv": "^16.3.1",
+    "graphviz": "^0.0.9",
+    "prompt-sync": "^4.2.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
